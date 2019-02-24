@@ -1,0 +1,11 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+#outputCanvas {
+
+    border: solid 1px black;
+} 
+#sourceCanvas, #mapCanvas{
+     visibility: hidden;
+}
